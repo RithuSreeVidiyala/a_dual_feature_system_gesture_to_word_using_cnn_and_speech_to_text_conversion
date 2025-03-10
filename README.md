@@ -1,0 +1,1 @@
+# a_dual_feature_system_gesture_to_word_using_cnn_and_speech_to_text_conversion
